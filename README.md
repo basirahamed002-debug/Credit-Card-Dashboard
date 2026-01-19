@@ -1,4 +1,4 @@
-# Credit-Card-Dashboard
+<img width="963" height="486" alt="image" src="https://github.com/user-attachments/assets/bed3a250-1946-45d0-9cf5-0e2305a1210d" /># Credit-Card-Dashboard
 An interactive Power BI dashboard for analyzing credit card financial data. key features include quarterly revenue trends, customer segmentation, and transaction analysis using DAX measures and calculated columns.  Topics: #powerbi #data-analytics #dashboard #finance #business-intelligence
 # 💳 Credit Card Financial Dashboard
 
@@ -11,8 +11,7 @@ This project is a comprehensive **Credit Card Financial Dashboard** developed us
 The dashboard utilizes a dataset of over 10,000 transactions to analyze revenue, customer acquisition costs, and transaction patterns across different card categories and expense types.
 
 ### 🖼️ Dashboard Preview
-![Dashboard Screenshot](path/to/your/screenshot.png)
-*(Note: Replace this link with an actual screenshot of your dashboard once uploaded)*
+{1BE048E1-4190-4F3F-B4D0-986E8B273089}.png
 
 ---
 
